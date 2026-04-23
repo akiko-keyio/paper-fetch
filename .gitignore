@@ -1,0 +1,12 @@
+# Browser session data (Playwright persistent context)
+.browser-data/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Exported cookies (contains session tokens)
+.cookies.json
+
+# Environment variables (contains API keys)
+.env
